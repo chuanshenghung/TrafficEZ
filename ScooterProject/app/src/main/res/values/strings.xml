@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TrafficEZ</string>
+    <string name="登入">登入</string>
+    <string name="帳號">帳號</string>
+    <string name="密碼">密碼</string>
+    <string name="登入按鈕">登入按鈕</string>
+    <string name="註冊按鈕">註冊按鈕</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="SignOut">登出</string>
+    <string name="OBD">OBD</string>
+    <string name="facebook_app_id">1211781975588236</string>
+    <string name="fb_login_protocol_scheme">fb1211781975588236</string>
+    <string name="title_activity_maps">Map</string>
+</resources>

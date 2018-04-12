@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "703586313567",
+    "firebase_url": "https://scooterproject-21704.firebaseio.com",
+    "project_id": "scooterproject-21704",
+    "storage_bucket": "scooterproject-21704.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703586313567:android:df84ddb2d4e8f687",
+        "android_client_info": {
+          "package_name": "com.sheng.gavin.scooterproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703586313567-9iu4umf0eng72o4mke78ansu8a6j2ekm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sheng.gavin.scooterproject",
+            "certificate_hash": "0d539c6b66d77f7f0a966a759241fdad19dccf09"
+          }
+        },
+        {
+          "client_id": "703586313567-9m24g6bvfkpktv8llug0tt660cuuumm9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sheng.gavin.scooterproject",
+            "certificate_hash": "b66b774db2a398e2aac337df2257da1d864e9256"
+          }
+        },
+        {
+          "client_id": "703586313567-7mqtoc8o76b0qkmv7p80cvf9bgg71bd5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCH0Nx0lP8IJ38-4P8rkgeIi8kP-AXJIJE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703586313567-7mqtoc8o76b0qkmv7p80cvf9bgg71bd5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
